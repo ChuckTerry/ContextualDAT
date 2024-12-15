@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\background\shell\WebsiteTemplate]
+"MUIVerb"="Generate Website"
+"Position"="Bottom"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\background\shell\WebsiteTemplate\command]
+@="cmd /c \"C:\\ContextualDAT.exe %V\""
